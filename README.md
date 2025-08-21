@@ -13,7 +13,7 @@ Before running the script, install the required Python packages listed in `requi
 pip install -r requirements.txt
 ```
 
-## HOW TO USE
+## How To Use
 
 1. Download the chat's `.txt` file from WhatsApp for analysis. The `Dummy_chat.txt` file included in this project can be used for testing.  
 2. Save the `txt` file in the same directory as the `peaches.py` file.  
