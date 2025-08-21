@@ -6,10 +6,16 @@ In this personal project, I developed a Python script to count the number of pea
 Months are counted as 30 days from the first record. For example, if the first peach emoji was sent on July 4th, the program will group counts by 30 days since July 4th and so on.
 
 ---
+## Installation
+
+Before running the script, install the required Python packages listed in `requirements.txt`:
+```bash
+pip install -r requirements.txt
+```
 
 ## HOW TO USE
 
-1. Download the chat´s `.txt` file from WhatsApp for analysis. The `Dummy_chat.txt` file included in this project can be used for testing.  
+1. Download the chat's `.txt` file from WhatsApp for analysis. The `Dummy_chat.txt` file included in this project can be used for testing.  
 2. Save the `txt` file in the same directory as the `peaches.py` file.  
 3. Run the `peaches.py` script in terminal.  
 4. When asked for the file name, provide the full name of the chat file, including extension.  
